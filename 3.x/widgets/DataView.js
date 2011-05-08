@@ -673,7 +673,7 @@ Ext.DataView = Ext.extend(Ext.BoxComponent, {
      * Selects a set of nodes.
      * @param {Array/HTMLElement/String/Number} nodeInfo HTMLElement类型的模板节点，模板节点的索引或是模板节点的ID。
      * An HTMLElement template node, index of a template node, id of a template node or an array of any of those to select
-     * @param {Boolean} keepExisting (可选项)true 代表保留当前选区 (optional)true to keep existing selections
+     * @param {Boolean} keepExisting (可选项)true代表保留当前选区 (optional)true to keep existing selections
      * @param {Boolean} suppressEvent (可选项)true表示为跳过所有selectionchange事件。(optional)true to skip firing of the selectionchange vent
      */
     select : function(nodeInfo, keepExisting, suppressEvent){

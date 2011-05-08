@@ -118,7 +118,7 @@ Ext.ComponentMgr = function(){
          * 告诉需要哪个组建的{@link Ext.component#xtype xtype}，添加适合的配置项对象，就创建新的Component，实际上返回这个类的实例。
          * Creates a new Component from the specified config object using the
          * config object's {@link Ext.component#xtype xtype} to determine the class to instantiate.
-         * @param {Object} config你打算创建组件的配置项对象。A configuration object for the Component you wish to create.
+         * @param {Object} config 你打算创建组件的配置项对象。A configuration object for the Component you wish to create.
          * @param {Constructor} defaultType 如果第一个参数不包含组件的xtype就在第二个参数中指定，作为默认的组件类型。（如果第一个参数已经有的话这个参数就可选吧）。The constructor to provide the default Component type if
          * the config object does not contain an xtype. (Optional if the config contains an xtype).
          * @return {Ext.Component} 刚实例化的组件。The newly instantiated Component.

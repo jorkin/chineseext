@@ -8,8 +8,7 @@
  * @class Ext.data.XmlStore
  * @extends Ext.data.Store
  * <p>
- * 一个轻型的辅助类，好让处理XML类型的{@link Ext.data.Store}起来更加轻松 。
- * XmlStore可由{@link Ext.data.XmlReader}自动配置。
+ * 一个轻型的辅助类，好让处理XML类型的{@link Ext.data.Store}起来更加轻松。XmlStore可通过{@link Ext.data.XmlReader}自动配置。
  * <br />
  * Small helper class to make creating {@link Ext.data.Store}s from XML data easier.
  * A XmlStore will be automatically configured with a {@link Ext.data.XmlReader}.</p>

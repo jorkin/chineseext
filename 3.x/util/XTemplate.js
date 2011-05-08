@@ -333,7 +333,7 @@ Ext.extend(Ext.XTemplate, Ext.Template, {
     },
 
     /**
-     * 把这个模板编译为一个函数，推荐多次使用这个模板时用这个方法，以提供性能。
+     * 把这个模板编译为一个函数，推荐多次使用这个模板时用这个方法，以提高性能。
      * @return {Function} 编译后的函数
      */
     compile : function(){return this;}

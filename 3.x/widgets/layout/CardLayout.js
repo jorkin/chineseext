@@ -108,8 +108,8 @@ Ext.layout.CardLayout = Ext.extend(Ext.layout.FitLayout, {
     renderHidden : true,
 
     /**
-     * 设置布局中某项为活动项（可见的项）。
-     * @param {String/Number} item 要激活项的id或字符串索引 Sets the active (visible) item in the layout.
+     * 设置布局中某项为活动项（即可见的项）。
+     * @param {String/Number} item 要激活项的id或字符串索引。 Sets the active (visible) item in the layout.
      * @param {String/Number} item The string component id or numeric index of the item to activate
      */
     setActiveItem : function(item){

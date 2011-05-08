@@ -1113,7 +1113,7 @@ Ext.applyIf(String, {
      * 把输入的' 与 \字符转义。
      * Escapes the passed string for ' and \
      * @param {String} string 要转义的字符。
-     * @return {String} 以转义的字符。The escaped string
+     * @return {String} 已转义的字符。The escaped string
      * @static
      */
     escape : function(string) {
@@ -1213,7 +1213,7 @@ String.prototype.trim = function(){
  */
 Ext.applyIf(Number.prototype, {
     /**
-     * 否则返回超出那个范围边界的值（最大，最小）。
+     * 检查当前数字是否属于某个期望的范围内。
      * 若数字是在范围内的就返回数字，否则最小或最大的极限值，那个极限值取决于数字是倾向那一面（最大、最小）。
      * 注意返回的极限值并不会影响当前的值。
      * Checks whether or not the current number is within a desired range.  If the number is already within the
