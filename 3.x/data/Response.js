@@ -1,5 +1,5 @@
 /*
- * 更新地址：http://ajaxjs.com/docs
+ * 项目地址：http://code.google.com/p/chineseext/
  * 欢迎参与我们翻译的工作！详见http://ajaxjs.com 或者 http://jstang.cn
  * 
  * 本翻译采用“创作共同约定、Creative Commons”。您可以自由：

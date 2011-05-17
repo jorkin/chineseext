@@ -1,7 +1,7 @@
 /*
- * 更新地址：http://ajaxjs.com/docs
+ * 项目地址：http://code.google.com/p/chineseext/
  * 欢迎参与我们翻译的工作！详见《EXT API2Chinese 相关事宜》：
- * http://bbs.ajaxjs.com/viewthread.php?tid=90 Ext中文站翻译小组
+ * http://bbs.ajaxjs.com Ext中文站翻译小组
  * 
  * 本翻译采用“创作共同约定、Creative Commons”。您可以自由：
  * 复制、发行、展览、表演、放映、广播或通过信息网络传播本作品
